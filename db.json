@@ -39,7 +39,7 @@
             "content": "Hùng xử lý phần con lại của list view và form edit",
             "type": "request",
             "staff_request": {
-                "id": 2,
+                "id": 7,
                 "username": "staff",
                 "email": "staff@gmail.com",
                 "provider": "local",
