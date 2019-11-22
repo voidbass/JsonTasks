@@ -39,9 +39,9 @@
             "content": "Hùng xử lý phần con lại của list view và form edit",
             "type": "request",
             "staff_request": {
-                "id": 7,
-                "username": "staff",
-                "email": "staff@gmail.com",
+                "id": 8,
+                "username": "long",
+                "email": "long@gmail.com",
                 "provider": "local",
                 "confirmed": false,
                 "blocked": false,
