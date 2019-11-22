@@ -95,6 +95,38 @@
             "attachments": [],
             "staff_assigneds": [],
             "staff_recommends": []
+        },
+        {
+            "id": 43,
+            "title": "Gì cũng được",
+            "description": "Gì cũng được",
+            "content": "Gì cũng được",
+            "type": "request",
+            "staff_request": {
+                "id": 8,
+                "username": "long",
+                "email": "long@gmail.com",
+                "provider": "local",
+                "confirmed": false,
+                "blocked": false,
+                "role": 3,
+                "created_at": "2019-11-09T05:26:50.000Z",
+                "updated_at": "2019-11-20T15:27:48.000Z",
+                "task": null
+            },
+            "date_desired": "2019-10-09T14:45:32.000Z",
+            "date_done": "1970-01-02T14:00:00.000Z",
+            "date_actual": "1970-01-02T14:00:00.000Z",
+            "state": null,
+            "product": null,
+            "priority": 3,
+            "date_on_air_start": "2019-10-30T01:45:07.000Z",
+            "date_on_air_end": "2019-11-01T11:45:07.000Z",
+            "created_at": "2019-10-28T14:45:47.000Z",
+            "updated_at": "2019-11-12T17:53:13.000Z",
+            "attachments": [],
+            "staff_assigneds": [],
+            "staff_recommends": []
         }
     ],
     "users": [
